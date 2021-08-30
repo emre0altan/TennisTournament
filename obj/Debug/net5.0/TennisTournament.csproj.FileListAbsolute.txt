@@ -1,0 +1,36 @@
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\TennisTournament.exe
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\TennisTournament.deps.json
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\TennisTournament.runtimeconfig.json
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\TennisTournament.runtimeconfig.dev.json
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\TennisTournament.dll
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\ref\TennisTournament.dll
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\TennisTournament.pdb
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.csprojAssemblyReference.cache
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.AssemblyInfoInputs.cache
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.AssemblyInfo.cs
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.dll
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\ref\TennisTournament.dll
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.pdb
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.genruntimeconfig.cache
+C:\Users\emre_\Desktop\New folder\TennisTournament\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\emre_\Desktop\New folder\TennisTournament\obj\Debug\net5.0\TennisTournament.csproj.CopyComplete
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\TennisTournament.exe
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\TennisTournament.deps.json
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\TennisTournament.runtimeconfig.json
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\TennisTournament.runtimeconfig.dev.json
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\TennisTournament.dll
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\ref\TennisTournament.dll
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\TennisTournament.pdb
+C:\Users\emre_\Desktop\TennisTournament\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.csprojAssemblyReference.cache
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.AssemblyInfoInputs.cache
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.AssemblyInfo.cs
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.csproj.CopyComplete
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.dll
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\ref\TennisTournament.dll
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.pdb
+C:\Users\emre_\Desktop\TennisTournament\obj\Debug\net5.0\TennisTournament.genruntimeconfig.cache
