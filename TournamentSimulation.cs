@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -35,7 +36,12 @@ namespace TennisTournament {
         /// </summary>
         static void GetJsonTournaments(JToken _jTokens, List<Tournament> _tournaments) {
             foreach (JToken jToken in _jTokens) {
-                _tournaments.Add(JsonConvert.DeserializeObject<Tournament>(jToken.ToString(Formatting.None)));
+                if(jToken["type"].Value<string>() == "league") {
+                    _tournaments.Add(JsonConvert.DeserializeObject<LeagueTournament>(jToken.ToString(Formatting.None)));
+                }
+                else {
+                    _tournaments.Add(JsonConvert.DeserializeObject<EliminationTournament>(jToken.ToString(Formatting.None)));
+                }
             }
         }
 
@@ -76,8 +82,8 @@ namespace TennisTournament {
 
 
         static void Main(string[] args) {
-            string TournamentInputPath = "C:\\Users\\emre_\\Desktop\\TennisTournament\\input.json";
-            string TournamentOutputPath = "C:\\Users\\emre_\\Desktop\\TennisTournament\\output.json";
+            string TournamentInputPath = "C:\\Users\\emre_\\Desktop\\Github\\TennisTournament\\input.json";
+            string TournamentOutputPath = "C:\\Users\\emre_\\Desktop\\Github\\TennisTournament\\output.json";
 
             JObject inputData = ReadJsonFile(TournamentInputPath);
 
@@ -96,6 +102,7 @@ namespace TennisTournament {
             FinalResults finalResults = new FinalResults();
             finalResults.results = players.Select(o => o.GetPlayerResult()).ToList();
             WriteJsonResults(finalResults, TournamentOutputPath);
+            
         }
     }
 }
